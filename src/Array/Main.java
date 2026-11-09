@@ -12,6 +12,7 @@ public class Main {
         int []numbers2=new int [10];
         arr.input(numbers2);
         arr.traverSal(numbers2);
+        arr.revers_traverSal(numbers2);
 
 
        // System.out.println(Arrays.toString(numbers));
